@@ -1,4 +1,3 @@
-"""
 # AI Drifting with PPO
 
 Welcome to the AI Drifting project! This repository contains scripts and resources for training an AI agent to learn how to drift using Proximal Policy Optimization (PPO) and various other techniques.
